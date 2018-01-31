@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+<table>
+<tr>
+<th>Period</th>
+
+<th>Class</th>   
+
+<th>Teacher</th>
+
+<th>Room</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>7th Science</td>
+  <td>Mrs.Ruiz</td>
+  <td>51</td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>7th ELA</td>
+  <td>Mrs.wilson</td>
+  <td>78</td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>7th social studeies</td>
+  <td>mr.sears</td>
+  <td>74</td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>CBO6</td>
+  <td>mrs.johns</td>
+  <td> </td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>ART</td>
+  <td>mrs.granese</td>
+  <td>31</td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td>CBO4</td>
+  <td>mrs.jaggers</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td>7</td>
+  <td>7th Math</td>
+  <td>mrs.Benjamin</td>
+  <td>88</td>
+</tr>
+<tr>
+<th>Period</th>
+
+<th>Class</th>   
+
+<th>Teacher</th>
+
+<th>Room</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>7th Science</td>
+  <td>Mrs.Ruiz</td>
+  <td>51</td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>7th ELA</td>
+  <td>Mrs.wilson</td>
+  <td>78</td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>7th social studeies</td>
+  <td>mr.sears</td>
+  <td>74</td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>Intro to techno</td>
+  <td>mr.kalvans</td>
+  <td> </td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>P.E</td>
+  <td>mr.Vallle</td>
+  <td>31</td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td>CBO2</td>
+  <td>mrs.jaggers</td>
+  <td>82</td>
+</tr>
+
+<tr>
+  <td>7</td>
+  <td>7th Math</td>
+  <td>mrs.Benjamin</td>
+  <td>88</td>
+</tr>
+</table>
+  </body>
+</html>
